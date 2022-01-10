@@ -1,6 +1,6 @@
 **Hi there :wave:**
 
-Hello!! i am heetae Han and deeplearning developer!  :satisfied:
+Hello!! i am heetae Han and AI Researcher & Developer!  :satisfied:
 
 :muscle: **Skills**
 
