@@ -16,7 +16,7 @@ Hello!! i am heetae Han and deeplearning developer!  :satisfied:
 <img src="https://img.shields.io/static/v1?label=&message=Object Detection&color=brightgreen"  /> <img src="https://img.shields.io/static/v1?label=&message=Sementic Segementation&color=orange" /> <img src="https://img.shields.io/static/v1?label=&message=Classification&color=yellow"  />  
 
 
-💻 **Beakjoon coding**
+⌨️ **Beakjoon coding**
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlxo497)](https://solved.ac/gmlxo497)
 
